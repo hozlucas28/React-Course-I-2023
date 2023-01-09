@@ -23,7 +23,11 @@ class Button extends Component {
 
 	render() {
 		console.log('Ejecutando método de render de Button');
-		return <button onClick={() => this.setState({ prop: 1 })}>Enviar en Button</button>;
+		return (
+			<button onClick={() => this.setState({ prop: 1 })}>
+				Enviar en Button
+			</button>
+		);
 	}
 }
 
@@ -39,7 +43,10 @@ class App extends Component {
 			<div>
 				<p>¡Hola Mundo!</p>
 				{this.state.value === 3 ? <Button pig="Happy" /> : null}
-				<button className={this.state.value} onClick={() => this.setState({ value: 2 })}>
+				<button
+					className={this.state.value}
+					onClick={() => this.setState({ value: 2 })}
+				>
 					Enviar en App
 				</button>
 			</div>
