@@ -1,9 +1,9 @@
 <h1 align="center">
-    React Course [2023]
+    React Course - I [2023]
 </h1>
 
 <h4 align="center">
-    Repository of <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>.
+    Repository of <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> (part one) of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>.
 </h4>
 
 <p align="center">
@@ -24,7 +24,7 @@
     Summary
 </h2>
 <p>
-    This is a repository where I store all lessons that I take on <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to made my code be more 'prettier'.
+    This is a repository where I store all lessons that I take on <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> (part one) of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to made my code be more 'prettier'.
 </p>
 
 <h2>
@@ -42,12 +42,6 @@
         <li>
             <code>npm start</code>: Runs the app in the development mode. Open <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
         </li>
-        <li>
-            <code>npm test</code>: Launches the test runner in the interactive watch mode. Visit <a href="https://facebook.github.io/create-react-app/docs/running-tests" target="_blank">running tests</a> for more information.
-        </li>
-        <li>
-            <code>npm run build</code>: Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app is ready to be deployed! Visit <a href="https://facebook.github.io/create-react-app/docs/deployment" target="_blank">deployment</a> for more information.
-        </li>
     </ul>
 </p>
 
@@ -58,6 +52,9 @@
     <ul>
         <li>
             <a href="https://github.com/hozlucas28/JS-Complementary-Course-2023" target="_blank">Repository of JS complementary course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Course-II-2023" target="_blank">Repository of React - II course</a>
         </li>
         <li>
             <a href="https://github.com/hozlucas28/React-Shopping-Cart-Practice-2023" target="_blank">Repository of shopping cart practice</a>
