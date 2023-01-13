@@ -24,7 +24,7 @@
     Summary
 </h2>
 <p>
-    This is a repository where I store all lessons that I take on <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> (part one) of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to made my code be more 'prettier'.
+    This is a repository where I store all lessons that I take on <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> (part one) of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
 </p>
 
 <h2>
@@ -73,7 +73,7 @@
     Acknowledgments
 </h2>
 <p>
-    Thanks to <a href="https://www.udemy.com/user/nicolas-schurmann/" target="_blank">Nicolas Schurmann</a> teacher to made this course.
+    Thanks to <a href="https://www.udemy.com/user/nicolas-schurmann/" target="_blank">Nicolas Schurmann</a> teacher to make this course.
 </p>
 
 <h2>
