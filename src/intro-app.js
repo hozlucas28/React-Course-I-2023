@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-// import './App.css';
 import './main.css';
 
 const styles1 = (bg = '#456') => ({
