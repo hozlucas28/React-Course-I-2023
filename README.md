@@ -60,6 +60,9 @@
             <a href="https://github.com/hozlucas28/React-Course-IV-2023" target="_blank">Repository of React - IV course</a>
         </li>
         <li>
+            <a href="https://github.com/hozlucas28/React-Course-V-2023" target="_blank">Repository of React - V course</a>
+        </li>
+        <li>
             <a href="https://github.com/hozlucas28/JS-Complementary-Course-2023" target="_blank">Repository of JS complementary course</a>
         </li>
         <li>
@@ -67,6 +70,9 @@
         </li>
         <li>
             <a href="https://github.com/hozlucas28/React-User-Manager-Practice-2023" target="_blank">Repository of user manager practice</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/React-Image-Search-Practice-2023" target="_blank">Repository of image search practice</a>
         </li>
     </ul>
 </p>
