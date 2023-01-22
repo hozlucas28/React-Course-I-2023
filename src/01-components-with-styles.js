@@ -1,3 +1,9 @@
+/* --------------------------------------------------------------------------
+ * APUNTES:
+ * 		   En este archivo se demuestra como crear y aplicar estilos a los
+ * 		   componentes funcionales <Li> y <App>.
+-------------------------------------------------------------------------- */
+
 import './main.css';
 
 const styles1 = (bg = '#456') => ({

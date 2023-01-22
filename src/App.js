@@ -1,3 +1,19 @@
+/* --------------------------------------------------------------------------
+ * APUNTES:
+ * 		   En este archivo se demuestra como crear componentes de clase y
+ * 		   sus diferentes métodos.
+ *
+ *
+ * IMPORTANTE:
+ *  			  - <componentDidMount> = Se ejecuta cuando el componente
+ * 										  es ensamblado por primera vez.
+ *  			  - <componentDidUpdate> = Se ejecuta cuando el componente
+ * 										   es actualizado.
+ *  			  - <componentWillUnmount> = Se ejecuta cuando el componente
+ * 										     es destruido/desmontada.
+ *  			  - <render> = Renderiza el contenido JSX propio del componente.
+-------------------------------------------------------------------------- */
+
 import { Component } from 'react';
 
 // Componente
@@ -23,6 +39,7 @@ class Button extends Component {
 
 	render() {
 		console.log('Ejecutando método de render de Button');
+
 		return (
 			<button onClick={() => this.setState({ prop: 1 })}>
 				Enviar en Button
@@ -31,7 +48,7 @@ class Button extends Component {
 	}
 }
 
-// Aplicación
+// Aplicación componente
 class App extends Component {
 	state = {
 		value: 3
@@ -39,6 +56,7 @@ class App extends Component {
 
 	render() {
 		console.log(this.state);
+
 		return (
 			<div>
 				<p>¡Hola Mundo!</p>
