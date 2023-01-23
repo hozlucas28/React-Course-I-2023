@@ -81,6 +81,9 @@
             <a href="https://github.com/hozlucas28/Next-Course-II-2023" target="_blank">Repository of Next.js - II course</a>
         </li>
         <li>
+            <a href="https://github.com/hozlucas28/Next-Course-III-2023" target="_blank">Repository of Next.js - III course</a>
+        </li>
+        <li>
             <a href="https://github.com/hozlucas28/JS-Complementary-Course-2023" target="_blank">Repository of JS complementary course</a>
         </li>
         <li>
