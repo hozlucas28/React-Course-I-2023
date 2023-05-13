@@ -75,13 +75,13 @@
             <a href="https://github.com/hozlucas28/React-Course-IX-2023" target="_blank">Repository of React - IX course</a>
         </li>
         <li>
-            <a href="https://github.com/hozlucas28/Next-Course-I-2023" target="_blank">Repository of Next.js - I course</a>
+            <a href="https://github.com/hozlucas28/Next-Course-I-2023" target="_blank">Repository of Next - I course</a>
         </li>
         <li>
-            <a href="https://github.com/hozlucas28/Next-Course-II-2023" target="_blank">Repository of Next.js - II course</a>
+            <a href="https://github.com/hozlucas28/Next-Course-II-2023" target="_blank">Repository of Next - II course</a>
         </li>
         <li>
-            <a href="https://github.com/hozlucas28/Next-Course-III-2023" target="_blank">Repository of Next.js - III course</a>
+            <a href="https://github.com/hozlucas28/Next-Course-III-2023" target="_blank">Repository of Next - III course</a>
         </li>
         <li>
             <a href="https://github.com/hozlucas28/JS-Complementary-Course-2023" target="_blank">Repository of JS complementary course</a>
