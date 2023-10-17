@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/88015479/211222910-7982af62-ec63-48b5-acfc-7b38895a9dbe.png" width="275">
+    <img src="./.github/react-logo.png" width="275">
 </p>
 
 <h2>
